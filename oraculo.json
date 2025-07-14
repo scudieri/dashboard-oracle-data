@@ -1,0 +1,127 @@
+{
+
+    "schemaVersion": "1.5",
+
+    "lastUpdated": "2024-07-12T15:20:00Z",
+
+    "company": "V4 Company",
+
+    "documentPurpose": "Data Oracle for AI-driven Personal Development Plan (PDI) generation.",
+
+    "companyCulture": {
+
+        "purpose": "CRIAR SOLUÇÕES DIGITAIS QUE GERAM RESULTADOS PARA TODOS",
+
+        "bhag": "1% DO PIB DO BRASIL ESTAR PASSANDO PELA V4 COMPANY ATÉ 2030",
+
+        "corePrinciple": {
+
+            "title": "LIBERDADE COM RESPONSABILIDADE",
+
+            "foundation": "Confiança",
+
+            "details": "A cultura só funciona com maturidade e confiança. A pirâmide de confiança inclui: Confiança Absoluta, Comprometimento com os acordos, Conflitos Saudáveis, Responsabilidade Mútua, Resultados Tangíveis."
+
+        },
+
+        "keyConcepts": [
+
+            {
+
+                "concept": "Transparência Radical",
+
+                "description": "Acesso a (quase) todos os dados da empresa. Feedback para ajudar o outro a ser melhor. Transparência não é democracia; decisões são tomadas por responsáveis designados."
+
+            },
+
+            {
+
+                "concept": "Extreme Ownership",
+
+                "description": "Responsabilidade extrema gera confiança, que é a base para a autonomia. Entender o 'porquê' fazer, não apenas 'o que' fazer."
+
+            },
+
+            {
+
+                "concept": "Visão de Longo Prazo",
+
+                "description": "Olhar para o destino em vez de se apegar aos problemas do dia-a-dia. Errar buscando acertar e errar até acertar."
+
+            }
+
+        ],
+
+        "motivations": [
+
+            { "id": "MOT_01", "title": "Mudar o mundo" },
+
+            { "id": "MOT_02", "title": "Ser internacional" },
+
+            { "id": "MOT_03", "title": "Ser reconhecido(a) como o(a) melhor no que faz" },
+
+            { "id": "MOT_04", "title": "Sucesso intelectual" },
+
+            { "id": "MOT_05", "title": "Ter uma grande empresa, ser uma grande marca" },
+
+            { "id": "MOT_06", "title": "Liberdade financeira" }
+
+        ],
+
+        "behaviors": [
+
+            { "id": "BEH_01", "title": "Sem reclamações", "description": "Fazer críticas acompanhadas de sugestões. Foco em resolver problemas." },
+
+            { "id": "BEH_02", "title": "Não cumpra horários, cumpra metas", "description": "Resultados importam mais que o tempo de execução." },
+
+            { "id": "BEH_03", "title": "Sempre encontre seus erros", "description": "Assumir responsabilidade pelas próprias atitudes e buscar melhoria." },
+
+            { "id": "BEH_04", "title": "Honre seus compromissos", "description": "Se foi acordado, será cumprido. Comunicar impedimentos o quanto antes." },
+
+            { "id": "BEH_05", "title": "Inove sempre", "description": "Buscar novas formas de fazer as coisas para não se tornar obsoleto." },
+
+            { "id": "BEH_06", "title": "Mais ação, menos glamour", "description": "Foco na relação menor esforço e maior ganho. Acelerar processos." },
+
+            { "id": "BEH_07", "title": "Comunique-se livremente", "description": "Ser transparente sem ser arrogante. Questionar o trabalho, não a pessoa." },
+
+            { "id": "BEH_08", "title": "Empreendedorismo", "description": "Pense e aja como dono(a). Ver problemas como oportunidades." },
+
+            { "id": "BEH_09", "title": "Respire, não seja um emocionado", "description": "Agir com calma e clareza, tomando decisões objetivas baseadas em informações." },
+
+            { "id": "BEH_10", "title": "Work smart, have fun", "description": "Procurar formas mais inteligentes e divertidas de fazer as atividades e curtir a jornada." },
+
+            { "id": "BEH_11", "title": "Whatever it takes", "description": "Fazer o que for preciso para entregar resultados para o negócio e para o cliente, sem desculpas." }
+
+        ],
+
+        "performanceEvaluation": {
+
+            "pillars": ["Cultura", "Entregas", "Looking Ahead"],
+
+            "description": "A meritocracia é baseada em como vivenciamos a cultura, se as ações impactam os indicadores chave e se estamos nos preparando para o futuro."
+
+        },
+
+        "hiringPhilosophy": "Não contratamos para delegar. Contratamos para treinar e/ou resolver. Buscamos conhecimento complementar."
+
+    },
+
+    "jobRoles": [
+
+        { "roleId": "ACCOUNT_MANAGER", "roleTitle": "Account Manager", "seniorityLevels": [ { "seniorityId": "JUNIOR", "seniorityName": "Júnior", "jobDescription": "O Account Manager Júnior da V4 Company é responsável por apoiar a gestão estratégica e operacional de contas ativas...", "levels": [ { "levelId": "AM_JR_L1", "levelName": "Level 1", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "developmentSummary": "", "keyResults": [], "compensation": {} }, { "levelId": "AM_JR_L2", "levelName": "Level 2", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "developmentSummary": "", "keyResults": [], "compensation": {} }, { "levelId": "AM_JR_L3", "levelName": "Level 3", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "developmentSummary": "", "keyResults": [], "compensation": {} }, { "levelId": "AM_JR_L4", "levelName": "Level 4", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "developmentSummary": "", "keyResults": [], "compensation": {} } ] }, { "seniorityId": "PLENO", "seniorityName": "Pleno", "jobDescription": "O Account Manager Pleno da V4 Company...", "levels": [ { "levelId": "AM_PL_L1", "levelName": "Level 1", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "developmentSummary": "", "keyResults": [], "compensation": {} }, { "levelId": "AM_PL_L2", "levelName": "Level 2", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "developmentSummary": "", "keyResults": [], "compensation": {} }, { "levelId": "AM_PL_L3", "levelName": "Level 3", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "developmentSummary": "", "keyResults": [], "compensation": {} }, { "levelId": "AM_PL_L4", "levelName": "Level 4", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "developmentSummary": "", "keyResults": [], "compensation": {} } ] }, { "seniorityId": "SENIOR", "seniorityName": "Sênior", "jobDescription": "O Account Manager Sênior da V4 Company...", "levels": [ { "levelId": "AM_SR_L1", "levelName": "Level 1", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "developmentSummary": "", "keyResults": [], "compensation": {} }, { "levelId": "AM_SR_L2", "levelName": "Level 2", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "developmentSummary": "", "keyResults": [], "compensation": {} }, { "levelId": "AM_SR_L3", "levelName": "Level 3", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "developmentSummary": "", "keyResults": [], "compensation": {} }, { "levelId": "AM_SR_L4", "levelName": "Level 4", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "developmentSummary": "", "keyResults": [], "compensation": {} } ] }, { "seniorityId": "ESPECIALISTA", "seniorityName": "Especialista", "jobDescription": "O Account Manager Especialista da V4 Company...", "levels": [ { "levelId": "AM_ESP_L1", "levelName": "Level 1", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} } ] } ] },
+
+        { "roleId": "TRAFFIC_MANAGER", "roleTitle": "Gestor de Tráfego", "seniorityLevels": [ { "seniorityId": "JUNIOR", "seniorityName": "Júnior", "jobDescription": "O Gestor de Tráfego Júnior...", "levels": [ { "levelId": "TM_JR_L1", "levelName": "Level 1", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "TM_JR_L2", "levelName": "Level 2", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "TM_JR_L3", "levelName": "Level 3", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "TM_JR_L4", "levelName": "Level 4", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} } ] }, { "seniorityId": "PLENO", "seniorityName": "Pleno", "jobDescription": "O Gestor de Tráfego Pleno...", "levels": [ { "levelId": "TM_PL_L1", "levelName": "Level 1", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "TM_PL_L2", "levelName": "Level 2", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} } ] }, { "seniorityId": "SENIOR", "seniorityName": "Sênior", "jobDescription": "O Gestor de Tráfego Sênior...", "levels": [ { "levelId": "TM_SR_L1", "levelName": "Level 1", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "TM_SR_L2", "levelName": "Level 2", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "TM_SR_L3", "levelName": "Level 3", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "TM_SR_L4", "levelName": "Level 4", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} } ] }, { "seniorityId": "ESPECIALISTA", "seniorityName": "Especialista", "jobDescription": "O Gestor de Tráfego Especialista...", "levels": [ { "levelId": "TM_ESP_L1", "levelName": "Especialista", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} } ] } ] },
+
+        { "roleId": "DESIGNER", "roleTitle": "Designer", "seniorityLevels": [ { "seniorityId": "JUNIOR", "seniorityName": "Júnior", "jobDescription": "Profissional 100% operacional...", "levels": [ { "levelId": "DES_JR_L1", "levelName": "Level 1", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "DES_JR_L2", "levelName": "Level 2", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "DES_JR_L3", "levelName": "Level 3", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "DES_JR_L4", "levelName": "Level 4", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} } ] }, { "seniorityId": "PLENO", "seniorityName": "Pleno", "jobDescription": "Profissional criativo e operacional...", "levels": [ { "levelId": "DES_PL_L1", "levelName": "Level 1", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "DES_PL_L2", "levelName": "Level 2", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "DES_PL_L3", "levelName": "Level 3", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "DES_PL_L4", "levelName": "Level 4", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} } ] }, { "seniorityId": "SENIOR", "seniorityName": "Sênior", "jobDescription": "Profissional operacional e tático...", "levels": [ { "levelId": "DES_SR_L1", "levelName": "Level 1", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "DES_SR_L2", "levelName": "Level 2", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "DES_SR_L3", "levelName": "Level 3", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "DES_SR_L4", "levelName": "Level 4", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} } ] }, { "seniorityId": "ESPECIALISTA", "seniorityName": "Especialista", "jobDescription": "Profissional tático e estratégico...", "levels": [ { "levelId": "DES_ESP_L1", "levelName": "Level 1", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "DES_ESP_L2", "levelName": "Level 2", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "DES_ESP_L3", "levelName": "Level 3", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "DES_ESP_L4", "levelName": "Level 4", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} } ] } ] },
+
+        { "roleId": "FINANCE", "roleTitle": "Financeiro", "seniorityLevels": [ { "seniorityId": "JUNIOR", "seniorityName": "Júnior", "jobDescription": "Profissional executor de rotinas operacionais...", "levels": [ { "levelId": "FIN_JR_L1", "levelName": "Level 1", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "FIN_JR_L2", "levelName": "Level 2", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "FIN_JR_L3", "levelName": "Level 3", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "FIN_JR_L4", "levelName": "Level 4", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} } ] }, { "seniorityId": "PLENO", "seniorityName": "Pleno", "jobDescription": "Especialista em processos financeiros...", "levels": [ { "levelId": "FIN_PL_L1", "levelName": "Level 1", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "FIN_PL_L2", "levelName": "Level 2", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "FIN_PL_L3", "levelName": "Level 3", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "FIN_PL_L4", "levelName": "Level 4", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} } ] }, { "seniorityId": "SENIOR", "seniorityName": "Sênior", "jobDescription": "Líder estratégico da área financeira...", "levels": [ { "levelId": "FIN_SR_L1", "levelName": "Level 1", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "FIN_SR_L2", "levelName": "Level 2", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "FIN_SR_L3", "levelName": "Level 3", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "FIN_SR_L4", "levelName": "Level 4", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} } ] }, { "seniorityId": "MASTER", "seniorityName": "Master", "jobDescription": "Referência em gestão financeira estratégica...", "levels": [ { "levelId": "FIN_MA_L1", "levelName": "Level 1", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "FIN_MA_L2", "levelName": "Level 2", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "FIN_MA_L3", "levelName": "Level 3", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "FIN_MA_L4", "levelName": "Level 4", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} } ] } ] },
+
+        { "roleId": "PEOPLE_PERFORMANCE", "roleTitle": "People & Performance", "seniorityLevels": [ { "seniorityId": "JUNIOR", "seniorityName": "Júnior (Trilha do Profissional)", "jobDescription": "Responsável por apoiar a implementação de processos...", "levels": [ { "levelId": "PP_JR_L1", "levelName": "V1", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "enablingCriteria": [], "compensation": {} }, { "levelId": "PP_JR_L2", "levelName": "V2", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "enablingCriteria": [], "compensation": {} }, { "levelId": "PP_JR_L3", "levelName": "V3", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "enablingCriteria": [], "compensation": {} }, { "levelId": "PP_JR_L4", "levelName": "V4", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "enablingCriteria": [], "compensation": {} } ] }, { "seniorityId": "PLENO", "seniorityName": "Pleno", "jobDescription": "Responsável por conduzir processos de P&P de ponta a ponta...", "levels": [ { "levelId": "PP_PL_L1", "levelName": "V1", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "enablingCriteria": [], "compensation": {} }, { "levelId": "PP_PL_L2", "levelName": "V2", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "enablingCriteria": [], "compensation": {} }, { "levelId": "PP_PL_L3", "levelName": "V3", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "enablingCriteria": [], "compensation": {} }, { "levelId": "PP_PL_L4", "levelName": "V4", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "enablingCriteria": [], "compensation": {} } ] }, { "seniorityId": "SENIOR", "seniorityName": "Sênior", "jobDescription": "Responsável pela estratégia e gestão de People & Performance...", "levels": [ { "levelId": "PP_SR_L1", "levelName": "V1", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "enablingCriteria": [], "compensation": {} }, { "levelId": "PP_SR_L2", "levelName": "V2", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "enablingCriteria": [], "compensation": {} }, { "levelId": "PP_SR_L3", "levelName": "V3", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "enablingCriteria": [], "compensation": {} }, { "levelId": "PP_SR_L4", "levelName": "V4", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "enablingCriteria": [], "compensation": {} } ] } ] },
+
+        { "roleId": "IA_ANALYST", "roleTitle": "Analista de IA e Automação", "seniorityLevels": [ { "seniorityId": "JUNIOR", "seniorityName": "Júnior", "jobDescription": "Profissional executor com foco em aprender...", "levels": [ { "levelId": "IA_JR_L1", "levelName": "Level 1", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "IA_JR_L2", "levelName": "Level 2", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "IA_JR_L3", "levelName": "Level 3", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "IA_JR_L4", "levelName": "Level 4", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} } ] }, { "seniorityId": "PLENO", "seniorityName": "Pleno", "jobDescription": "Profissional responsável por desenvolver soluções de IA...", "levels": [ { "levelId": "IA_PL_L1", "levelName": "Level 1", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "IA_PL_L2", "levelName": "Level 2", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "IA_PL_L3", "levelName": "Level 3", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "IA_PL_L4", "levelName": "Level 4", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} } ] }, { "seniorityId": "SENIOR", "seniorityName": "Sênior", "jobDescription": "Profissional responsável por desenvolver soluções de IA...", "levels": [ { "levelId": "IA_SR_L1", "levelName": "Level 1", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "IA_SR_L2", "levelName": "Level 2", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "IA_SR_L3", "levelName": "Level 3", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "IA_SR_L4", "levelName": "Level 4", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} } ] }, { "seniorityId": "MASTER", "seniorityName": "Master", "jobDescription": "Profissional responsável por desenvolver soluções de IA...", "levels": [ { "levelId": "IA_MA_L1", "levelName": "Level 1", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "IA_MA_L2", "levelName": "Level 2", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "IA_MA_L3", "levelName": "Level 3", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "IA_MA_L4", "levelName": "Level 4", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} } ] } ] },
+
+        { "roleId": "PEG_COORDINATOR", "roleTitle": "Coordenador de PE&G", "seniorityLevels": [ { "seniorityId": "COORDENADOR", "seniorityName": "Coordenador", "levels": [ { "levelId": "PEG_C_L1", "levelName": "Level 1", "jobDescription": "O Coordenador de PE&G L1...", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "PEG_C_L2", "levelName": "Level 2", "jobDescription": "O Coordenador de PE&G L2...", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "PEG_C_L3", "levelName": "Level 3", "jobDescription": "O Coordenador de PE&G V3...", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} }, { "levelId": "PEG_C_L4", "levelName": "Level 4", "jobDescription": "O Coordenador de PE&G V4...", "knowledge": [], "skills": [], "attitudes": [], "valueDelivered": [], "objective": "", "keyResults": [], "compensation": {} } ] } ] }
+
+    ]
+
+}
