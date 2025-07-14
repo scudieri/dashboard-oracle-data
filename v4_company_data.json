@@ -1,0 +1,122 @@
+{
+    "schemaVersion": "1.5",
+    "lastUpdated": "2024-07-12T15:20:00Z",
+    "company": "V4 Company",
+    "documentPurpose": "Data Oracle for AI-driven Personal Development Plan (PDI) generation.",
+    "companyCulture": {
+        "purpose": "CRIAR SOLUÇÕES DIGITAIS QUE GERAM RESULTADOS PARA TODOS",
+        "bhag": "1% DO PIB DO BRASIL ESTAR PASSANDO PELA V4 COMPANY ATÉ 2030",
+        "corePrinciple": {
+            "title": "LIBERDADE COM RESPONSABILIDADE",
+            "foundation": "Confiança",
+            "details": "A cultura só funciona com maturidade e confiança. A pirâmide de confiança inclui: Confiança Absoluta, Comprometimento com os acordos, Conflitos Saudáveis, Responsabilidade Mútua, Resultados Tangíveis."
+        },
+        "keyConcepts": [
+            {
+                "concept": "Transparência Radical",
+                "description": "Acesso a (quase) todos os dados da empresa. Feedback para ajudar o outro a ser melhor. Transparência não é democracia; decisões são tomadas por responsáveis designados."
+            },
+            {
+                "concept": "Extreme Ownership",
+                "description": "Responsabilidade extrema gera confiança, que é a base para a autonomia. Entender o 'porquê' fazer, não apenas 'o que' fazer."
+            },
+            {
+                "concept": "Visão de Longo Prazo",
+                "description": "Olhar para o destino em vez de se apegar aos problemas do dia-a-dia. Errar buscando acertar e errar até acertar."
+            }
+        ],
+        "motivations": [
+            {
+                "id": "MOT_01",
+                "title": "Mudar o mundo"
+            },
+            {
+                "id": "MOT_02",
+                "title": "Ser internacional"
+            },
+            {
+                "id": "MOT_03",
+                "title": "Ser reconhecido(a) como o(a) melhor no que faz"
+            },
+            {
+                "id": "MOT_04",
+                "title": "Sucesso intelectual"
+            },
+            {
+                "id": "MOT_05",
+                "title": "Ter uma grande empresa, ser uma grande marca"
+            },
+            {
+                "id": "MOT_06",
+                "title": "Liberdade financeira"
+            }
+        ],
+        "behaviors": [
+            {
+                "id": "BEH_01",
+                "title": "Sem reclamações",
+                "description": "Fazer críticas acompanhadas de sugestões. Foco em resolver problemas."
+            },
+            {
+                "id": "BEH_02",
+                "title": "Não cumpra horários, cumpra metas",
+                "description": "Resultados importam mais que o tempo de execução."
+            },
+            {
+                "id": "BEH_03",
+                "title": "Sempre encontre seus erros",
+                "description": "Assumir responsabilidade pelas próprias atitudes e buscar melhoria."
+            },
+            {
+                "id": "BEH_04",
+                "title": "Honre seus compromissos",
+                "description": "Se foi acordado, será cumprido. Comunicar impedimentos o quanto antes."
+            },
+            {
+                "id": "BEH_05",
+                "title": "Inove sempre",
+                "description": "Buscar novas formas de fazer as coisas para não se tornar obsoleto."
+            },
+            {
+                "id": "BEH_06",
+                "title": "Mais ação, menos glamour",
+                "description": "Foco na relação menor esforço e maior ganho. Acelerar processos."
+            },
+            {
+                "id": "BEH_07",
+                "title": "Comunique-se livremente",
+                "description": "Ser transparente sem ser arrogante. Questionar o trabalho, não a pessoa."
+            },
+            {
+                "id": "BEH_08",
+                "title": "Empreendedorismo",
+                "description": "Pense e aja como dono(a). Ver problemas como oportunidades."
+            },
+            {
+                "id": "BEH_09",
+                "title": "Respire, não seja um emocionado",
+                "description": "Agir com calma e clareza, tomando decisões objetivas baseadas em informações."
+            },
+            {
+                "id": "BEH_10",
+                "title": "Work smart, have fun",
+                "description": "Procurar formas mais inteligentes e divertidas de fazer as atividades e curtir a jornada."
+            },
+            {
+                "id": "BEH_11",
+                "title": "Whatever it takes",
+                "description": "Fazer o que for preciso para entregar resultados para o negócio e para o cliente, sem desculpas."
+            }
+        ],
+        "performanceEvaluation": {
+            "pillars": [
+                "Cultura",
+                "Entregas",
+                "Looking Ahead"
+            ],
+            "description": "A meritocracia é baseada em como vivenciamos a cultura, se as ações impactam os indicadores chave e se estamos nos preparando para o futuro."
+        },
+        "hiringPhilosophy": "Não contratamos para delegar. Contratamos para treinar e/ou resolver. Buscamos conhecimento complementar."
+    },
+    "jobRoles": []
+}
